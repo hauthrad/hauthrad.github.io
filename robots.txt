@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hauthrad.github.io/sitemap
+Sitemap: https://hauthrad.github.io/app/sitemap
+Sitemap: https://hauthrad.github.io/assets/sitemap
+Sitemap: https://hauthrad.github.io/css/sitemap
+Sitemap: https://hauthrad.github.io/includes/sitemap
+Sitemap: https://hauthrad.github.io/item/sitemap
+Sitemap: https://hauthrad.github.io/src/sitemap
